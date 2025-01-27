@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rt_config.h": "c",
+        "eeprom.h": "c"
+    }
+}
