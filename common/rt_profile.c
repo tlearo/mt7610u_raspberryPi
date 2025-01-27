@@ -25,7 +25,7 @@
  *************************************************************************
  */
 
-#include "rt_config.h"
+#include "../common/rt_config.h"
 
 #if defined(CONFIG_RA_HW_NAT) || defined(CONFIG_RA_HW_NAT_MODULE)
 #include "../../../../../../net/nat/hw_nat/ra_nat.h"
